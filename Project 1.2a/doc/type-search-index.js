@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"PD","l":"DiceBag"},{"p":"PD","l":"Die"},{"p":"UI","l":"Main"},{"p":"PD","l":"MyFrame"},{"p":"PD","l":"MyPanel"},{"p":"PD","l":"NumberOfDiceRangeException"},{"p":"PD","l":"NumberOfFacesRangeException"},{"p":"UI","l":"StartUI"},{"p":"Test","l":"Tester"}];updateSearchResults();
